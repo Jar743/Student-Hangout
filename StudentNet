@@ -1,0 +1,36 @@
+<!DOCTYPE>
+<html>
+<head> 
+<center>
+Student Network
+</center>
+</head>
+<title>
+Student Network
+</title>
+<body>
+<h1>
+<center>
+Student Hangout
+</center>
+</h1>
+<center>
+<img src="http://www.health.harvard.edu/images/logo-mobile-footer-low@2x.png"/>
+</center>
+<p>
+16 y/o programmer, from Miami, Florida.
+<p>
+Taught myself how to code at Harvard.
+<p>
+Something about the atmosphere here, it just makes you want to reach and surpass your "full" capacity.
+<p> 
+Student Hangout is currently under beta and therefore only available to select students, for the time being.
+<p> 
+Currently available in Harvard network:
+<p>
+<a href="http://my.summer.harvard.edu/course/sum-30204/2016"> Introduction to Psychology
+</p>
+<p>
+<a href="http://my.summer.harvard.edu/course/sum-33526/2016"> Deductive Logic
+</p>
+</body>
